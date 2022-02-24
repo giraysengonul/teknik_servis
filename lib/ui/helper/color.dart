@@ -1,0 +1,10 @@
+import 'package:flutter/material.dart';
+const Color redColor = Colors.red;
+const Color greyColor = Colors.grey;
+const Color blackColor = Colors.black;
+const Color orangeColor = Colors.orange;
+const Color secondaryColor = Colors.blue;
+const Color whiteColor = Color(0xffffffff);
+const Color thirdColor = Color(0xFF4756DF);
+const Color primaryColor = Color(0xff056741);
+const Color obBoardBackground = Color.fromRGBO(247, 247, 247, 1);
